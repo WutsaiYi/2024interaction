@@ -1,4 +1,4 @@
-//week03_08_go_goColor_black_white
+//week03_8_go_goColor_black_white
 //切換黑白黑白
 int goColor = -1;
 int[][] board = new int[9][9];
